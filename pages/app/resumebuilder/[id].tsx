@@ -786,7 +786,7 @@ const App: NextPage = () => {
                               arrayHelpers.push({ name: "", url: "" });
                             }}
                           >
-                            EKLE
+                            ADD
                           </button>
                         </div>
                       )}
@@ -878,7 +878,7 @@ const App: NextPage = () => {
                                 });
                               }}
                             >
-                              EKLE
+                              ADD
                             </button>
                           </div>
                         )}
@@ -965,7 +965,7 @@ const App: NextPage = () => {
                                 });
                               }}
                             >
-                              EKLE
+                              ADD
                             </button>
                           </div>
                         )}
@@ -1068,7 +1068,7 @@ const App: NextPage = () => {
                                 });
                               }}
                             >
-                              EKLE
+                              ADD
                             </button>
                           </div>
                         )}
